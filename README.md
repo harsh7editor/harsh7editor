@@ -1,4 +1,5 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--t7UZdMbf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://developers.giphy.com/static/img/api.c99e353f761d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 <h1 align="center">Hi 👋, I'm Harsh Kori</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://whosarghya.netlify.app/content/giphy.gif">
