@@ -4,6 +4,8 @@
 <h3 align="center">A passionate JAVA developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://whosarghya.netlify.app/content/giphy.gif">
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=harsh7editor&bg_color=030303&color=00ccff&line=4000f0&point=2f1dbf&area=true&hide_border=true)<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh7editor&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7editor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh7editor" alt="harsh7editor" /></a> </p>
