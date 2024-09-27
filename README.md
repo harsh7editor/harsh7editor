@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kori</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="400" 
+src=(https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif").<hr>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=harsh7editor&bg_color=030303&color=00ccff&line=4000f0&point=2f1dbf&area=true&hide_border=true)<hr>
 
