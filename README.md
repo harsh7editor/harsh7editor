@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Harsh Kori</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<h3 align="center">A passionate FULL STACK JAVA developer from India</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="150">
 </p>
