@@ -2,8 +2,9 @@
 
 <!-- introduction -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+'+++I+++++A+M++++++++++HARSH+++++++++++KORI" /></a>
+  <a href="https://github.com/harsh7editor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+'+++I+++++A+M++++++++++HARSH+++++++++++KORI" />
+  </a>
 </p>
 
 <h3 align="center">A passionate FULL STACK JAVA developer from India</h3>
