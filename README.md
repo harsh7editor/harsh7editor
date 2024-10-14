@@ -7,7 +7,9 @@
   </a>
 </p>
 
-<h3 align="center">A passionate FULL STACK JAVA developer from India</h3>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+FULL+STACK+JAVA+developer+from+India" alt="Typing SVG" /></a></h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="150">
 </p>
