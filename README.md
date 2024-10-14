@@ -1,11 +1,11 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <!-- introduction -->
- <p align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+'+++I+++++A+M++++++++++HARSH+++++++++++KORI"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+HARSH!;&center=true&font=Righteous&size=35">
   </a>
- </p>
+</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+FULL+STACK+JAVA+developer+from+India" alt="Typing SVG" /></a></h3>
