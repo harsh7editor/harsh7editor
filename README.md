@@ -44,6 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh7editor&show_icons=true&locale=en" alt="harsh7editor" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=harsh7editor&theme=transparent" alt="harsh7editor" /></p>
+
 # 📊 Competitive Stats:
 
 [![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/harsh_kori277)](#)
