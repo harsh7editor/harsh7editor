@@ -19,6 +19,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh7editor" alt="harsh7editor" /></a> </p>
 
+<a href="https://github.com/harsh7editor">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+</a>  
+
+
 - 🔭 I’m currently working on [Data Structure/Algorithm](https://www.linkedin.com/posts/rounak-dahiya-51b275256_bharatintern-video-netflixclone-activity-7117548401042325504-idx-?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **Java**
@@ -29,9 +34,6 @@
 
 - 📫 How to reach me **harshkori389@gmail.com**
  
-<a href="https://github.com/harsh7editor">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
