@@ -49,6 +49,9 @@
 
 [![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/harsh_kori277)](#)
 <br>
+
+
+
 <!--SPOTIFY-->
 
 
@@ -60,10 +63,10 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
  </a>
-  <a href="https://github.com/walidbosso"> 
+  <a href="https://github.com/harsh7editor"> 
  <img align="left" src="./images/good-times.svg" width="10%">   
 </a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/harsh7editor"> 
  <img align="right" src="./images/good-times.svg" width="10%">   
 </a>
  <h2 align="center" width="20" >
