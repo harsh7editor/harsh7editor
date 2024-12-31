@@ -61,11 +61,11 @@
 <!--SPOTIFY-->
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/harsh7editor">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/harsh7editor">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
  </a>
@@ -80,9 +80,9 @@
 </h2>
 
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/harsh7editor"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/harsh7editor"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <!--spotify CARD-->
@@ -95,7 +95,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/harsh7editor"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
   
