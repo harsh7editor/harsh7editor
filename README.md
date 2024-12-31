@@ -49,10 +49,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/harsh_kori277)](#)
 <br>
-## 🌟 Watch a snake 🐍 eating my contribution graph :
-![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <!--SPOTIFY-->
 
 
@@ -96,9 +92,11 @@
   
  <!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)--> 
 
-  
+## 🌟 Watch a snake 🐍 eating my contribution graph :
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/kinshuk-code-1729/kinshuk-code-1729/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!--MORE SONGS-->
+
 
 
 
