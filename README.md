@@ -1,5 +1,14 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+</a>
 
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+</a>
+
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+</a>
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
