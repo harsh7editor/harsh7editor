@@ -1,16 +1,10 @@
 <h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
-</a>
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
-</a>
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -35,7 +29,7 @@
 <a href="https://github.com/harsh7editor">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>  
-
+<a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 
 - 🔭 I’m currently working on [Data Structure/Algorithm](https://www.linkedin.com/posts/rounak-dahiya-51b275256_bharatintern-video-netflixclone-activity-7117548401042325504-idx-?utm_source=share&utm_medium=member_desktop)
 
