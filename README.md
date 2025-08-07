@@ -66,8 +66,8 @@
 [![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/harsh_kori277)](#)
 <br>
 
-
-
+## Badges
+[![An image of @harsh7editor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh7editor)](https://holopin.io/@harsh7editor)
 <!--SPOTIFY-->
 
 
