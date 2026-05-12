@@ -123,3 +123,18 @@
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<!-- THANKS-->
+
+
+<p align="center">  
+<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+</p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="right" /></a></p>
+<p ><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=0b6ab3&style=flat&logo=java" alt="Back to Top" align="left" /></a></p>
+
+
+ <p align="center">
+  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p>
+
